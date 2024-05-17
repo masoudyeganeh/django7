@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8009f77e-ad60-41ff-aa0f-eff1a2baab0e" name="Changes" comment="struct">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8009f77e-ad60-41ff-aa0f-eff1a2baab0e" name="Changes" comment="struct-1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +97,14 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۱" />
       <updated>1715806007537</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎−۰۰۰۰۲" summary="struct-1">
+      <option name="closed" value="true" />
+      <created>1715969499852</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۲" />
+      <updated>1715969499852</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +120,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="struct" />
-    <option name="LAST_COMMIT_MESSAGE" value="struct" />
+    <MESSAGE value="struct-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="struct-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
