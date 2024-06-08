@@ -20,3 +20,12 @@ class Transaction(models.Model):
 
     def __str__(self):
         return f'{self.user} - {self.transaction_type} - {self.amount}'
+
+
+class UserBalance(models.Model):
+    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='balance_record')
+    balance = models.BigIntegerField()
+    created_time = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f'{self.user} - {self.balance} - {self.created_time}'
