@@ -31,6 +31,6 @@ class UserBalance(models.Model):
         return f'{self.user} - {self.balance} - {self.created_time}'
 
 
-t = Transaction(user_id=2, transaction_type=1, amount=3000, created_time="2024-06-09 09:37:22.886729+03:30")
-t.save()
+# t = Transaction(user_id=2, transaction_type=1, amount=3000, created_time="2024-06-09 09:37:22.886729+03:30")
+# t.save()
 
