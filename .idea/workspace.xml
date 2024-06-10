@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8009f77e-ad60-41ff-aa0f-eff1a2baab0e" name="Changes" comment="struct-1">
-      <change afterPath="$PROJECT_DIR$/academy/catalouge/migrations/0005_alter_productattribute_attribute_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy/catalouge/migrations/0006_alter_category_parent_and_more.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy/catalouge/migrations/0007_alter_brand_parent_and_more.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/django7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8009f77e-ad60-41ff-aa0f-eff1a2baab0e" name="Changes" comment="struct-14030320-1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/academy/catalouge/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/academy/catalouge/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/academy/catalouge/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/academy/catalouge/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/academy/transaction/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/academy/transaction/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/academy/transaction/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/academy/transaction/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academy/catalouge/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/academy/catalouge/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academy/catalouge/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/academy/catalouge/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +138,21 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۲" />
       <updated>1715969499852</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="struct-14030320">
+      <created>1717937311957</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717937311957</updated>
+    </task>
+    <task id="LOCAL-00004" summary="struct-14030320-1">
+      <created>1717937581298</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717937581298</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +169,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="struct" />
     <MESSAGE value="struct-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="struct-1" />
+    <MESSAGE value="struct-14030320" />
+    <MESSAGE value="struct-14030320-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="struct-14030320-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
