@@ -46,7 +46,7 @@ class Brand(models.Model):
 
 
 class Product(models.Model):
-    product_type = models.ForeignKey(ProductType, on_delete=models.PROTECT)
+    product_type = models.ForeignKey(ProductType, on_delete=models.PROTECT, related_name="product_type")
     upc = models.BigIntegerField(unique=True)
     title = models.CharField(max_length=35)
     description = models.TextField(blank=True)

@@ -10,3 +10,10 @@ def product_list(request):
     # p1.name = "toyota"
     # p1.save()
     return HttpResponse("\n".join([f"{p.upc}" for p in products]))
+
+
+def product_detail(request, pk):
+    pass
+    # product = Product.objects.select_related('product_type')
+    # return HttpResponse(f"{product.title}, {product.upc}, {product.product_type.title}, {product.brand.name}",
+    #                     {product.category.name})
